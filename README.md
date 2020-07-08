@@ -1,4 +1,4 @@
-# DFRobot_huyujie
+# DFRobot_LiuNian
 
 ................
    
@@ -64,17 +64,17 @@ micro:bit        |             |              |             |
 
 ## History
 
-- Data 2019-7-19
+- Data 2020-7-8
 - Version V0.1
 
 
 ## Credits
 
-Written by(yujie.hu@dfrobot.com), 2019. (Welcome to our [website](https://www.dfrobot.com/))
+Written by(Nian.Liu@dfrobot.com), 2020. (Welcome to our [website](https://www.dfrobot.com/))
 
 
 
 
 
-# DFRobot_huyujie
+# DFRobot_LiuNian
 
