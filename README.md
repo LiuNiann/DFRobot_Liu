@@ -34,13 +34,13 @@
 
 ```C++
 
-  #include <DFRobot_huyujie.h>
-DFRobot_huyujie sut1;
+#include <DFRobot_liunian.h>
+DFRobot_liunian sut1;
 void setup(){
   Serial.begin(9600);
-  sut1.WriteName(-123);
-  sut1.WriteAge(10);
-  sut1.WriteScore(1.23);
+  sut1.WriteName("二牛");
+  sut1.WriteAge(23);
+  sut1.WriteScore(81);
   Serial.print("name= ");Serial.println(sut1.getName());
   Serial.print("age= ");Serial.println(sut1.getAge());
   Serial.print("score= ");Serial.println(sut1.getScore());
